@@ -79,6 +79,7 @@ h2 {
 
     display: grid;
     place-items: center;
+    text-align: center;
     margin: 25px 0;
 }
 
